@@ -25,20 +25,9 @@ Hello World! We would like to introduce you to a new, fun, and easy way of learn
 - GitHub: Collaboration, Hosting and Deployment
 - Tools: Git
 
-## 🤝 Most Creative Use of GitHub
-
-- When using GitHub we implemented the **CI/CD workflow** and made the deployment process easy. It helped us to get the project deployed on the network to be accessed by other people.
-- **Deploying** the project on GitHub helped us to get the project deployed on the network to be accessed by other people.
-- We are using GitHub for **Collaboration**. GitHub makes it easy to share code with others and helps a lot in collaboration. GitHub makes it easy to set up a project and get started.
-- We also used GitHub for planning and keeping track of our project and its progress with the help of the **GitHub project** management tool.
-
 ## ⛅ Best Use of Google Cloud
 
 Our application uses Firebase for the database to store chats and to authenticate users. Cloud Firestore is a flexible, scalable real-time, high-performance database for mobile, web, and server development from Firebase and Google Cloud. Firebase is a free service and easy to use and has sped up our development process significantly.
-
-## 🌐 Best Domain Name from Domain.com (If we can do)
-
-- Register any .tech domain name from Domain.com.
 
 ## 🧠 Challenges we ran into
 
@@ -47,17 +36,12 @@ Our application uses Firebase for the database to store chats and to authenticat
 
 ## 🏅 Accomplishments that we're proud of
 
+- Winning best use of Google Cloud award.
 - Completing the Project in such a short time frame.
-- Creating a website that is easy to use, looks great, and can help someone learn
+- Creating a website that is easy to use, looks great, and can help someone learn.
 
 ## 📖 What we learned
 
 - Using i18n.
 - Deploying web app on GitHub Pages.
 - Efficient use of GitHub actions.
-
-## 🚀 What's next for LearnEasy
-
-- Building a mobile app
-- Adding more fun educational games, and visuals
-- Adding more languages
