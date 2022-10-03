@@ -11,8 +11,8 @@ Hello World! We would like to introduce you to a new, fun, and easy way of learn
 
 ## 💻 How it Works?
 
-- Head on over to the website and view the options
-- Login using authenication
+- [Head on over to the website](https://learn-easy.vercel.app/)
+- Choose 'Sign in with Google'
 - Choose from a variety of topics
 - Play games, study from interactive visuals, or chat with other kids
 - If it is more useful for you, you can change the language input to match the one you want
